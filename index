@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maison de Vacances - Accueil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue à notre Maison de Vacances</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="photos.html">Photos</a></li>
+                <li><a href="activites.html">Activités</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Accueil</h2>
+        <p>Bienvenue sur notre site de la maison de vacances.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Maison de Vacances</p>
+    </footer>
+</body>
+</html>
